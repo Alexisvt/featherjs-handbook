@@ -44,7 +44,7 @@ This list of libraries can be helpful and I recommend to install it after the fe
 This packages will be the normal dependencies
 
 ```cmd
-yarn add react react-dom react-router redux react-redux redux-thunk
+yarn add react react-dom react-router redux react-redux redux-thunk babel-polyfill
 ```
 
 This packages will be used as a dev dependencies
