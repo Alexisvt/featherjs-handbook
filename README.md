@@ -50,7 +50,7 @@ yarn add react react-dom react-router redux react-redux redux-thunk
 This packages will be used as a dev dependencies
 
 ```cmd
-yarn add --dev eslint babel-cli babel-eslint babel-loader babel-plugin-transform-flow-strip-types babel-preset-latest babel-preset-react babel-preset-stage-3 chokidar ejs eslint-import-resolver-webpack eslint-plugin-flowtype eslint-plugin-import eslint-plugin-react nodemon redux-logger rimraf typescript webpack webpack-dev-middleware webpack-hot-middleware file-loader url-loader css-loader
+yarn add --dev eslint babel-cli babel-eslint babel-loader babel-plugin-transform-flow-strip-types babel-preset-latest babel-preset-react babel-preset-stage-3 chokidar ejs eslint-import-resolver-webpack eslint-plugin-flowtype eslint-plugin-import eslint-plugin-react nodemon redux-logger rimraf typescript webpack webpack-dev-middleware webpack-hot-middleware file-loader url-loader css-loader style-loader
 ```
 
 ## Configure eslint 
